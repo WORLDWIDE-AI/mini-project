@@ -1,1 +1,1 @@
-mimi project
+mini project
