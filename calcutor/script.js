@@ -63,6 +63,7 @@ function calculate() {
     if (isNaN(result)) {
         result = 'Error';
     }
+    
 
     currentInput = result.toString();
     previousInput = '';
